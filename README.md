@@ -1,12 +1,6 @@
----
-layout: page
-title: Lab 1 - Bash
----
+# Lab 1 - Bash
 
 This first lab should get you up to speed working with the command line, basic shell commands, an editor, and a small bash program.
-
-* TOC
-{:toc}
 
 ## Background
 
